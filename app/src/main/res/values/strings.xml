@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MipyMapy</string>
+    <string name="back">&lt;</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="area_arrays">
+        <item>Merkato</item>
+        <item>Piasa</item>
+        <item>4 Killo</item>
+        <item>Bole</item>
+    </string-array>
+
+    <string name="radius_prompt">Search within</string>
+    <string-array name="radius_arrays">
+        <item>1 km</item>
+        <item>2 km</item>
+        <item>3 km</item>
+        <item>4 km</item>
+        <item>5 km</item>
+        <item>6 km</item>
+        <item>10 km</item>
+        <item>15 km</item>
+    </string-array>
+
+<string name="bank_prompt">Choose a Bank</string>
+    <string-array name="bank_arrays">
+        <item>Commercial Bank of Ethiopia (CBE)</item>
+        <item>Dashen Bank</item>
+        <item>Nib International Bank</item>
+        <item>Awash International Bank</item>
+        <item>Enat Bank</item>
+        <item>Buna International Bank</item>
+        <item>Birhan International Bank</item>
+        <item>Zemen Bank</item>
+    </string-array>
+    <string name="title_activity_main2">Banks</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>
